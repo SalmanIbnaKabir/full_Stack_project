@@ -28,6 +28,27 @@
   color: #61dafb;
 }
 
+/* show data css here  */
+
+#showData{
+  background: #61dafb;
+  text-align: center;
+  margin: 3rem;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 4px 10px 5px rgba(1, 1, 1, 0.2);;
+
+}
+
+#showData p {
+  margin-bottom: 5px;
+  font-size: 1.5rem;
+}
+#showData a {
+  text-decoration: none;
+  font-size: 1.6rem;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
